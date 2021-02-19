@@ -1,6 +1,6 @@
 from colored import stylize, fg
 
-print(stylize("\n---- | Youtube Downloader | ----\n", fg("red")))
+print(stylize("\n---- | Calculator | ----\n", fg("red")))
 
 def power(base_num, pow_num):
     result = 1
