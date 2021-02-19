@@ -3,8 +3,7 @@ This is my first script with python. I know the power function is simplest than 
 
 >> python3 calculator.py
  
- ---- | Youtube Downloader | ----                                                                   
-                                                                                                   
+---- | Calculator | ----                                                                                                                                                                              
 please enter the operator:
 
 please enter your first number: 
